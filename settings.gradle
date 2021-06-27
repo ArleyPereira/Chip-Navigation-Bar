@@ -1,0 +1,2 @@
+rootProject.name = "Chip Navigation Bar"
+include ':app'
